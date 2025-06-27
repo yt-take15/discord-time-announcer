@@ -18,6 +18,6 @@ Python 3.11
 ## 実行方法
 1. このリポジトリをクローンまたはダウンロードします
 2. ".env" ファイルをプロジェクト内に作成し、以下のように記入してください
-  DISCORD_TOKEN=あなたのボットトークン
-  VOICE_CHANNEL_ID=対象のボイスチャンネルID
+  - DISCORD_TOKEN=あなたのボットトークン
+  - VOICE_CHANNEL_ID=対象のボイスチャンネルID
 3. "main.py"を実行
